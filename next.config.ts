@@ -12,6 +12,7 @@ const nextConfig: NextConfig = {
       },
     },
   },
+  reactProductionProfiling: true,
 };
 
 export default nextConfig;
